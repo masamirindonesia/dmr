@@ -33,6 +33,7 @@ BM_4601_China			4601	4601.master.brandmeister.network	passw0rd	62031
 BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
 BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 BM_5151_Philippines		5151	5151.master.brandmeister.network	passw0rd	62031
+HB_DMRID2 		        0000	103.172.204.165				passw0rd	62031
 ######################################################################################################
 #
 #				DMR+ DVS IPSC2 Hosts Below
@@ -52,6 +53,7 @@ DMR+_IPSC2-DVSPh-K		223341	78.129.135.36				PASSWORD	55555
 ######################################################################################################
 DMR+_IPSC2-Australia		182702	43.245.72.66				PASSWORD	55555
 DMR+_IPSC2-Australia-DMO	177333	43.245.72.67				PASSWORD	55555
+KRAP_DMR		        0000	103.174.114.231      			 passw0rd	62030
 ######################################################################################################
 #
 #				HBLink/FreeDMR Komunikasi Radio Antar Penduduk
@@ -60,6 +62,4 @@ DMR+_IPSC2-Australia-DMO	177333	43.245.72.67				PASSWORD	55555
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
 HB_DMRID1 		        0000	103.187.147.208				passw0rd	62030
-HB_DMRID2 		        0000	103.172.204.165				passw0rd	62031
-KRAP_DMR		        0000	103.174.114.231      			 passw0rd	62030
 ######################################################################################################
