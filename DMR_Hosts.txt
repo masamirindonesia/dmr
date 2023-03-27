@@ -42,6 +42,7 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 KRAP_DMR		          0000	103.174.114.231      	passw0rd	62030
 HB_DMRID1 		        0000	103.187.147.208				passw0rd	62030
 HB_DMRID2 		        0000	103.172.204.165				passw0rd	62031
+BGR        		        0000	103.187.106.224				passw0rd	62030
 MANOKWARI             0000  dmrpabar.ip-dynamic.net passw0rd  62030
 PALALAWAN		          0000	156.67.217.55       	passw0rd	62030
 LANGKAT 		          0000	101.50.0.209        	passw0rd	62030
